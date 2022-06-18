@@ -1,9 +1,8 @@
 # milliondollarchecker
 
-this checks the registration status of all domains on milliondollarhomepage.com
-a list of all available domains are output to the console
+this checks the registration status of all domains on milliondollarhomepage.com, then a list of all available domains are output to the console
 
-the list of domains was scraped using the following javascript
+the list of domains was scraped using the following javascript code
 
 ```js
 let pixels = [];
