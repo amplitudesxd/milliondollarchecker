@@ -72,4 +72,4 @@ for site in available_sites:
 
 print("\nAvailable sites:")
 for site in sorted_sites:
-  print('domain: {} - coords: {}'.format(site['site']['domain'], site['site']['coords'])
+  print('domain: {} - coords: {}'.format(site['site']['domain'], site['site']['coords']))
